@@ -9,7 +9,7 @@
 ## 翻譯結果：
 China, India, and others have enjoyed continuing economic growth.  
 中國、印度和其他國家都有著繼續增長的經濟增長。  
---------------------  
+- 
 Slowly and not without struggle, America began to listen.  
 緩慢和不再是不久的，美國開始就開始聽到。  
 --------------------  
